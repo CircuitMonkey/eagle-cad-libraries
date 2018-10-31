@@ -195,7 +195,9 @@
 <connect gate="G$1" pin="9" pad="9"/>
 </connects>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="VALUE" value="DF12-20DS-0.5V" constant="no"/>
+</technology>
 </technologies>
 </device>
 </devices>
